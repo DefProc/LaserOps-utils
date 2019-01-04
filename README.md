@@ -19,6 +19,7 @@ mode.
 ## Utilities
 
  * **teamHitColour** - Show the colour of the team that fired at the target
+ * **hashDecode** - Display a unique hash for each incoming message
  * **rawRecv** - Display each incoming IR packet (good for debugging)
 
 > It should go without saying, but these utilities are not endorsed by Nerf!

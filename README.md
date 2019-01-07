@@ -5,6 +5,8 @@ Arduino sketches and Adafruit Circuit Playground Express UF2 files.
 Utilities that allow interaction with the Nerf LaserOps hardware via third party
 infra-red senders and recievers.
 
+![teamHitColour Operation](teamHitColour/teamHitColour.gif)
+
 Arduino sketches will need the [IRLib2](https://github.com/cyborg5/IRLib2) adding
 to the Arduino libraries folder. Details in the
 [library README file](https://github.com/cyborg5/IRLib2/tree/master/IRLib2).
